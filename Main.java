@@ -15,7 +15,7 @@ class Main
     String promptSkills = "List three skills or acheivements: \n(Press Enter after each one)\n";
     String done = "File contents written to disk!\n";
     String fileExists = "The file \"%s\" already exists.\nEnter the name again to overwrite the " +
-    "existing file.\nOr enter another name to continue.\n";
+    "existing file.\nOr enter a different file name to continue.\n";
     String name;
     String email;
     String color;
